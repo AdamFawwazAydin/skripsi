@@ -1,4 +1,1 @@
-python-3.10
-streamlit run app_streamlit.py
-python -m venv venv
->> venv\Scripts\activate
+python-3.11
